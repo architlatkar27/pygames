@@ -1,6 +1,6 @@
 # pygames
 This rep is a collection of the pygames that I have made.
-
+You will need python and pygame installed in your machine.
 To play pySquash:
 1. Launch the game from terminal
 2. The paddle is controlled by the position of the mouse. Make sure your mouse pointer is within the game area.
