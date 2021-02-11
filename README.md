@@ -9,3 +9,6 @@ To play pySquash:
 
 ![pygame](https://user-images.githubusercontent.com/52096846/107638254-52cc9c00-6c95-11eb-8887-ad31042e8d1d.png)
 
+
+Scope for improvement - The game window closes when you drop the ball and score is shown on terminal, saving highscores and displaying them on the game window
+
