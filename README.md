@@ -1,5 +1,5 @@
 # pygames
-This rep is a collection of the pygames that I have made.
+This repo is a collection of the pygames that I have made.
 You will need python and pygame installed in your machine.
 To play pySquash:
 1. Launch the game from terminal
